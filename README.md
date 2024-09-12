@@ -13,5 +13,7 @@ We present a cancer classification system based on transfer learning and CNN ima
 #### Datasets
 
 The datasets and model's pre-trained weights can be accessed via the links below
+
 [Datasets](https://drive.google.com/drive/folders/1q3ML1yvChhivSs9SgpYjBbPTeOgUI5Xa?usp=drive_link)
+
 [Model Weights](https://drive.google.com/drive/folders/1qazu05_4jbazH3HkKN2ys0dit-lEb8cT?usp=drive_link)
