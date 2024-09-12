@@ -1,5 +1,6 @@
 <div class="alert alert-info" style="color:#004643"><h4><b><center>Cancer Image Segmentation using deep learning and transfer learning</b></h4></div> <a id="eda"></a>
 <div>
+
 <p>Authors:</p>
 <p>&emsp;&emsp;Douglas Connolly (23053027)</p>
 <p>&emsp;&emsp;Kenneth Onwuaha (23073022)</p>
